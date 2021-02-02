@@ -1,4 +1,4 @@
-![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/bannermaca.png)
+![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/banner.png)
 
 <!--
 **macamontesdeoca/macamontesdeoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
