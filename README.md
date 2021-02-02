@@ -1,7 +1,7 @@
 ![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/banner.png)
 
-### What you should know
-- :books: &nbsp; I've recently finished an intensive Full Stack web developer bootcamp
+### Hey there ! :raised_hands:
+- :books: &nbsp; I've recently finished an intensive Full Stack Web Developer bootcamp
 - :heavy_check_mark: &nbsp; I'm ready to begin my professional path
 - :mag: &nbsp; I'm looking for opportunities to colaborate !
 
