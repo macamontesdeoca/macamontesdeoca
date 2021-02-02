@@ -1,10 +1,11 @@
 ![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/banner.png)
 
 ### What you should know
-- :books: I've recently finished an intensive Full Stack web developer bootcamp
-- :heavy_check_mark: I'm ready to begin my professional path
-- :mag: I'm looking for opportunities to colaborate !
+- :books:  I've recently finished an intensive Full Stack web developer bootcamp
+- :heavy_check_mark:  I'm ready to begin my professional path
+- :mag:  I'm looking for opportunities to colaborate !
 
+More information on : https://www.linkedin.com/in/macarena-montes-de-oca/
 Feel free to contact me: macamdeoca@gmail.com
 
 <!--
