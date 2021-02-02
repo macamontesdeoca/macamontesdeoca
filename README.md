@@ -1,6 +1,11 @@
 ![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/banner.png)
 
-##About
+### What you should know
+- :books: I've recently finished an intensive Full Stack web developer bootcamp
+- :heavy_check_mark: I'm ready to begin my professional path
+- :mag: I'm looking for opportunities to colaborate !
+
+Feel free to contact me: macamdeoca@gmail.com
 
 <!--
 **macamontesdeoca/macamontesdeoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
