@@ -1,4 +1,3 @@
-### Hi there 👋
 ![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/bannermaca.png)
 
 <!--
