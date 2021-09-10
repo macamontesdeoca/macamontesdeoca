@@ -1,9 +1,9 @@
 ![alt text](https://github.com/macamontesdeoca/macamontesdeoca/blob/main/banner.png)
 
 ### Hey there ! :raised_hands:
-- :books: &nbsp; I've recently finished an intensive Full Stack Web Developer bootcamp
-- :heavy_check_mark: &nbsp; I'm ready to begin my professional path
-- :mag: &nbsp; I'm looking for opportunities to colaborate !
+- :books: &nbsp; I'm a chemical engineer who switched her professional path to backend develper
+- :heavy_check_mark: &nbsp; I'm currently working for a LATAM start-up 
+- :mag: &nbsp; I'm always looking for opportunities to colaborate !
 
 More information on : https://www.linkedin.com/in/macarena-montes-de-oca/
 
